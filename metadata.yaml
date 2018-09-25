@@ -1,11 +1,16 @@
 _repo: Volcanoes-of-the-United-States_57530
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57530-h/images/cover.jpg
 creator:
   author:
     agent_name: Brantley, Steven R.
     gutenberg_agent_id: '49447'
     url: http://www.gutenberg.org/2009/agents/49447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57530#Volcanoes-of-the-United-States
 gutenberg_issued: '2018-07-17'
 gutenberg_type: Text
 identifiers:
